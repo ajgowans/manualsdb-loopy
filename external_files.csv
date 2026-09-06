@@ -1,1 +1,2 @@
-Path in MiSTer, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional)
+Path,URL,Size in bytes (optional but recommended),MD5 Hash (optional but recommended),Filter Terms (optional),Overwrite (optional),Comments (optional)
+docs/Loopy/Puppy Love Story.pdf,https://archive.org/download/mister-manuals/1995_Casio%20Loopy.zip/1995_Casio%20Loopy%2FPuppy%20Love%20Story.pdf,1116578,0e6e4e0ac8b4cb07aaf7557f07ae8301,,,Puppy Love Story.pdf
